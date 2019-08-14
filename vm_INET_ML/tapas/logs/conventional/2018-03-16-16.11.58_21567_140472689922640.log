@@ -1,1 +1,0 @@
-#ts enqueued_b enqueued_t,visible=1,subplot=2 bwe,visible=1,subplot=1 cur,visible=1,subplot=1 level,visible=1,subplot=3 max_level player_status,visible=1,subplot=3 paused_time downloaded_bytes cpu,visible=1,subplot=4 mem,visible=1,subplot=5 rss vms ts_start_req ts_stop_req q0,visible=0 q1,visible=0 q2,visible=0 q3,visible=0
