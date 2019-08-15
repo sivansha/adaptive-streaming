@@ -6,7 +6,7 @@ Daniil Romanchenko,
 Marius Bartholdy,
 Sivan Shani
 
-The course gives kmowledge and tools for image and video processing and analyzing for streaming.
+The course gives kmowledge and tools for image and video processing and analyzing aimed for streaming.
 
 ### subjects:
 1. video analuzing
