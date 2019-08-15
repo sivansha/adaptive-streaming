@@ -1,4 +1,4 @@
-### TAPAS based HTTP Adaptive Streaming simulation with VM
+### TAPAS based HTTP Adaptive Streaming simulation
 
 Solutions for the TU-Berlin INET "Multimedia Lab"
 Written by:
@@ -9,9 +9,9 @@ Sivan Shani
 The course gives kmowledge and tools for image and video processing and analyzing aimed for streaming.
 
 ### subjects:
-1. video analuzing
+1. video analyzing
 1. adaptive streaming
-1. adaptive streaming simulation with VM 
+1. adaptive streaming simulation on VM 
 
 ### resources
 The video used in the code can be found here:
